@@ -10,7 +10,5 @@ Steps taken:
 - Which products have been most ordered online / instore?
 - From which areas do most orders come from?
 - Which customers order the most and how much are their orders in total?
-- Has order amounts decreased / increased?
-- How much time on average is there between order date and ship date = how efficient the company is processing orders?
-- Which rep has sold the most
+- Which rep has sold the most?
 
